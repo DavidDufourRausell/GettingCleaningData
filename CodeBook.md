@@ -1,8 +1,8 @@
 ## DATA DICTIONARY
 
 activity_label
-    Kind of activity
-        WALKING
+*Kind of activity
+        +WALKING
         WALKING_UPSTAIRS
         WALKING_DOWNSTAIRS
         SITTING
