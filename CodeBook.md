@@ -1,6 +1,7 @@
 ## DATA DICTIONARY
 
 activity_label
+
 *Kind of activity
         +WALKING
         WALKING_UPSTAIRS
