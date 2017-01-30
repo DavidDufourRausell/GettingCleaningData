@@ -1,74 +1,74 @@
 ## DATA DICTIONARY
 
 activity_label  
-    Kind of activity  
-        WALKING  
-        WALKING_UPSTAIRS  
-        WALKING_DOWNSTAIRS  
-        SITTING  
-        STANDING  
-        LAYING  
+    * Kind of activity  
+        + WALKING  
+        + WALKING_UPSTAIRS  
+        + WALKING_DOWNSTAIRS  
+        + SITTING  
+        + STANDING  
+        + LAYING  
   
 subject  
-    Subject of study  
-        1  
-        2  
-        3  
-        4  
-        5    
-        6  
-        7  
-        8  
-        9  
-        10  
-        11  
-        12  
-        13  
-        14  
-        15  
-        16  
-        17  
-        18  
-        19  
-        20  
-        21  
-        22  
-        23  
-        24  
-        25  
-        26  
-        27  
-        28  
-        29  
-        30
+    * Subject of study  
+        + 1
+        + 2
+        + 3
+        + 4
+        + 5
+        + 6
+        + 7
+        + 8
+        + 9
+        + 10
+        + 11
+        + 12
+        + 13
+        + 14
+        + 15
+        + 16
+        + 17
+        + 18
+        + 19
+        + 20
+        + 21
+        + 22
+        + 23
+        + 24
+        + 25
+        + 26
+        + 27
+        + 28
+        + 29
+        + 30
   
 The remaining variables names are composed by different parts that are described as follows:  
-    t  
-        Time-series  
-    f  
-        Fast-Fourier Transform  
-    Body  
-        Body measurement  
-    Gravity  
-        Gravity measurement  
-    Acc  
-        Linear acceleration  
-    Gyro  
-        Angular velocity  
-    Jerk  
-        Time-derived Jerk signal  
-    Mag  
-        Magnitude calculated using the Euclidean norm  
-    mean()  
-        Mean of the values  
-    std()  
-        Standard deviation of the values  
-    X  
-        X-axis component  
-    Y  
-        Y-axis component  
-    Z  
-        Z-axis component  
+    * t  
+        + Time-series  
+    * f  
+        + Fast-Fourier Transform  
+    * Body  
+        + Body measurement  
+    * Gravity  
+        + Gravity measurement  
+    * Acc  
+        + Linear acceleration  
+    * Gyro  
+        + Angular velocity  
+    * Jerk  
+        + Time-derived Jerk signal  
+    * Mag  
+        + Magnitude calculated using the Euclidean norm  
+    * mean()  
+        + Mean of the values  
+    * std()  
+        + Standard deviation of the values  
+    * X  
+        + X-axis component  
+    * Y  
+        + Y-axis component  
+    * Z  
+        + Z-axis component  
   
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
@@ -136,13 +136,3 @@ fBodyBodyGyroMag-mean()
 fBodyBodyGyroMag-std()    
 fBodyBodyGyroJerkMag-mean()  
 fBodyBodyGyroJerkMag-std()  
-
-
-* e  
-* d  
-* f  
-
-  
-*c  
-*v  
-*b  
