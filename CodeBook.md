@@ -1,17 +1,17 @@
 ## DATA DICTIONARY
 
-activity_label
-    Kind of activity
-        WALKING
-        WALKING_UPSTAIRS
-        WALKING_DOWNSTAIRS
-        SITTING
-        STANDING
-        LAYING
-
-subject
-    Subject of study
-        1
+activity_label  
+    Kind of activity  
+        WALKING  
+        WALKING_UPSTAIRS  
+        WALKING_DOWNSTAIRS  
+        SITTING  
+        STANDING  
+        LAYING  
+  
+subject  
+    Subject of study  
+        1  
         2
         3
         4
