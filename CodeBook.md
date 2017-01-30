@@ -1,8 +1,8 @@
 ## DATA DICTIONARY
 
 activity_label  
-    * Kind of activity  
-        + WALKING  
+* Kind of activity  
++ WALKING  
         + WALKING_UPSTAIRS  
         + WALKING_DOWNSTAIRS  
         + SITTING  
@@ -11,36 +11,36 @@ activity_label
   
 subject  
     * Subject of study  
-        + 1
-        + 2
-        + 3
-        + 4
-        + 5
-        + 6
-        + 7
-        + 8
-        + 9
-        + 10
-        + 11
-        + 12
-        + 13
-        + 14
-        + 15
-        + 16
-        + 17
-        + 18
-        + 19
-        + 20
-        + 21
-        + 22
-        + 23
-        + 24
-        + 25
-        + 26
-        + 27
-        + 28
-        + 29
-        + 30
+        + 1  
+        + 2  
+        + 3  
+        + 4  
+        + 5  
+        + 6  
+        + 7  
+        + 8  
+        + 9  
+        + 10  
+        + 11  
+        + 12  
+        + 13  
+        + 14  
+        + 15  
+        + 16  
+        + 17  
+        + 18  
+        + 19  
+        + 20  
+        + 21  
+        + 22  
+        + 23  
+        + 24  
+        + 25  
+        + 26  
+        + 27  
+        + 28  
+        + 29  
+        + 30  
   
 The remaining variables names are composed by different parts that are described as follows:  
     * t  
