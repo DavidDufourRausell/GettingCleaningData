@@ -3,7 +3,7 @@
 activity_label  
 * Kind of activity  
   * WALKING  
-        + WALKING_UPSTAIRS  
+  * WALKING_UPSTAIRS  
         + WALKING_DOWNSTAIRS  
         + SITTING  
         + STANDING  
