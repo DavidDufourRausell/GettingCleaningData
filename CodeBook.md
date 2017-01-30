@@ -138,9 +138,9 @@ fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()  
 
 
-*e
-*d
-*f
+* e  
+* d  
+* f  
 
   
 *c  
