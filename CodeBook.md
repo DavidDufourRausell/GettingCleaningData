@@ -2,7 +2,7 @@
 
 activity_label  
 * Kind of activity  
-+ WALKING  
+  * WALKING  
         + WALKING_UPSTAIRS  
         + WALKING_DOWNSTAIRS  
         + SITTING  
@@ -136,8 +136,3 @@ fBodyBodyGyroMag-mean()
 fBodyBodyGyroMag-std()    
 fBodyBodyGyroJerkMag-mean()  
 fBodyBodyGyroJerkMag-std()  
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
